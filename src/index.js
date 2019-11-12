@@ -8,6 +8,7 @@ Ls[L] = en
 
 const isDayjs = d => d instanceof Dayjs // eslint-disable-line no-use-before-define
 
+//这是一个注释
 const parseLocale = (preset, object, isLocal) => {
   let l
   if (!preset) return L
